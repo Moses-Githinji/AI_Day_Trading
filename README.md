@@ -88,4 +88,4 @@ Trading SDKs from Alpaca and CCXT
 
 Contact:
 📧 Email: ndirangu.23githinji@gmail.com
-💼 LinkedIn: Moses Githinji
+💼 LinkedIn: <a href="https://www.linkedin.com/in/moses-githinji-a85079195/" target="_blank">Moses Githinji</a>
