@@ -25,6 +25,67 @@ An AI-powered day trading platform built with Node.js and Express.js, using mach
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Moses-Githinji/ai-day-trading.git
+   git clone https://github.com/Moses-Githinji/AI-Day-trading.git
    cd ai-day-trading
    ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+# or
+
+    yarn install
+
+3. **Configure environment variables**:
+   ```bash
+   ALPACA_API_KEY=your_key
+   ALPACA_SECRET_KEY=your_secret
+   POLYGON_API_KEY=your_polygon_key
+   NODE_ENV=development
+   PORT=3000
+   ```
+
+Tech Stack 💻
+Backend: Node.js, Express.js, TypeScript (optional)
+
+Machine Learning: TensorFlow.js, Brain.js
+
+Data: Axios, WebSocket, PostgreSQL/MongoDB
+
+Trading: CCXT (crypto), Alpaca SDK
+
+Frontend: React (optional), Chart.js
+
+Contributing 🤝
+Fork the repository
+
+Create a feature branch: git checkout -b feature/risk-manager
+
+Commit changes: git commit -m "Add volatility-based risk control"
+
+Push to branch: git push origin feature/risk-manager
+
+Open a pull request
+
+Guidelines:
+
+Follow JavaScript Standard Style or ESLint rules
+
+Include JSDoc comments for complex logic
+
+Test with Jest/Mocha
+
+License 📄
+MIT License - See LICENSE
+
+Acknowledgments 🌟
+Market data by Alpha Vantage and Polygon
+
+ML capabilities powered by TensorFlow.js
+
+Trading SDKs from Alpaca and CCXT
+
+Contact:
+📧 Email: ndirangu.23githinji@gmail.com
+💼 LinkedIn: Moses Githinji
